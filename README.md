@@ -1,5 +1,11 @@
+<a href="https://cichra-quant.cz/" target="_blank">
+  <img align="right" width="18%" src="https://cichra-quant.cz/assets/logo-white-link-bg.svg" alt="Cichra Quant Logo">
+</a>
+
 # Ondřej Cichra 
 ### Quantitative Research & Algorithmic Trading
+
+<img align="right" width="22%" src="https://cichra-quant.cz/assets/moje-foto.webp" alt="Ondřej Cichra">
 
 Prošel jsem si celou evoluční cestou – od naivního diskréčního obchodování a kreslení čar do grafu, přes detailní studium order flow a mikrostruktury v Level 2 datech, až po programování masivních analytických systémů. 
 
@@ -9,7 +15,10 @@ Dnes se plně věnuji kvantitativnímu výzkumu, strojovému učení, optimaliza
 * 📖 **Celý příběh a evoluce přístupu:** [O mně | cichra-quant.cz](https://cichra-quant.cz/o-mne/)
 * ✉️ **Kontakt:** [ondrej.cichra5@gmail.com](mailto:ondrej.cichra5@gmail.com) | Telegram: [@ondrejcichra](https://t.me/ondrejcichra)
 
----
+<br/>
+<hr/>
+
+<img align="right" width="35%" src="https://cichra-quant.cz/assets/03_1d_drift_levy_kurtosis.webp" alt="Parameter Drift - Rozpad edge">
 
 ### 🔬 Technický archiv a výzkumy
 
