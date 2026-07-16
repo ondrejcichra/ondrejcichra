@@ -1,8 +1,11 @@
-<a href="https://cichra-quant.cz/" target="_blank">
-  <img align="right" width="18%" src="https://cichra-quant.cz/assets/logo-white-link-png.webp" alt="Cichra Quant Logo">
-</a>
+<h1>
+  <a href="https://cichra-quant.cz/" target="_blank">
+    <img align="right" width="14%" src="https://cichra-quant.cz/assets/logo-white-link-png.webp" alt="Cichra Quant Logo">
+  </a>
+  Ondřej Cichra
+  <br clear="all" />
+</h1>
 
-# Ondřej Cichra 
 ### Quantitative Research & Algorithmic Trading
 
 <img align="right" width="22%" src="https://cichra-quant.cz/assets/moje-foto.webp" alt="Ondřej Cichra">
