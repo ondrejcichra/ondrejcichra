@@ -10,9 +10,9 @@
 
 <img align="right" width="22%" src="https://cichra-quant.cz/assets/moje-foto.webp" alt="Ondřej Cichra">
 
-Prošel jsem si celou evoluční cestou – od naivního diskréčního obchodování a kreslení čar do grafu, přes detailní studium order flow a mikrostruktury v Level 2 datech, až po programování masivních analytických systémů. 
+Prošel jsem si celou evoluční cestou – od naivního diskréčního obchodování a kreslení čar do grafu, přes detailní studium order flow a mikrostruktury v Level 2 datech, až po programování komplexních analytických systémů. 
 
-Dnes se plně věnuji kvantitativnímu výzkumu, strojovému učení, optimalizaci na robustnost a vývoji plně autonomních obchodních systémů (AOS) v Pythonu a DuckDB. Zjistil jsem, že limity lidského mozku a kognitivní zkreslení lze eliminovat pouze nekompromisní statistikou. Na svém webu nesdílím iluze ani parametry ziskových strategií, ale exaktní metodologické postupy, reálná data a slepé uličky výzkumného procesu.
+Dnes se plně věnuji kvantitativnímu výzkumu, strojovému učení, optimalizaci na robustnost a vývoji plně autonomních obchodních systémů. Zjistil jsem, že limity lidského mozku a kognitivní zkreslení lze eliminovat pouze nekompromisní statistikou. Nic neprodávám, pouze (pro mě zcela neziskově) sdílím kvalitní informace. Na svém webu nesdílím parametry ziskových strategií, ale exaktní metodologické postupy, reálná data a slepé uličky výzkumného procesu.
 
 * 🌐 **Web:** [cichra-quant.cz](https://cichra-quant.cz/)
 * 📖 **Celý příběh a evoluce přístupu:** [O mně | cichra-quant.cz](https://cichra-quant.cz/o-mne/)
