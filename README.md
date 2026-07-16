@@ -1,5 +1,5 @@
 <a href="https://cichra-quant.cz/" target="_blank">
-  <img align="right" width="18%" src="https://cichra-quant.cz/assets/logo-white-link-bg.svg" alt="Cichra Quant Logo">
+  <img align="right" width="18%" src="https://cichra-quant.cz/assets/logo-white-link-png.webp" alt="Cichra Quant Logo">
 </a>
 
 # Ondřej Cichra 
