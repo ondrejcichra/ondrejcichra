@@ -1,6 +1,6 @@
 <h2>
   <a href="https://cichra-quant.cz/" target="_blank">
-    <img align="right" height="32px" src="https://cichra-quant.cz/assets/logo-white-link-png.webp" alt="Cichra Quant Logo">
+    <img align="right" height="64px" src="https://cichra-quant.cz/assets/logo-white-link-png.webp" alt="Cichra Quant Logo">
   </a>
   Quantitative Research & Algorithmic Trading
   <br clear="all" />
