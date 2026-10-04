@@ -19,7 +19,7 @@ Dnes se plně věnuji kvantitativnímu výzkumu, strojovému učení, optimaliza
 <br/>
 <hr/>
 
-<img align="right" width="35%" src="https://cichra-quant.cz/assets/03_1d_drift_levy_kurtosis.webp" alt="Parameter Drift - Rozpad edge">
+<img align="right" width="35%" src="https://cichra-quant.cz/assets/EVC-Cum_Net_PMFE10_PMAE10-comb_signed.webp" alt="Stochastický šum - random walk">
 
 ### 🔬 Technický archiv a výzkumy
 
