@@ -26,10 +26,12 @@ Dnes se plně věnuji kvantitativnímu výzkumu, strojovému učení, optimaliza
 Kompletní databázi mých kvantitativních konceptů najdete v repozitáři **[quant-research](https://github.com/ondrejcichra/quant-research)**. 
 
 **Vybrané metodologie:**
-* [Metodologie In-Sample a Out-of-Sample: Jak jediný únik dat znehodnotí výzkum](https://cichra-quant.cz/posts/in-sample-out-of-sample-metodologie-a-data-leakage/)
-* [Kvantitativní pohled na Price Action – Proč trh ignoruje geometrii](https://cichra-quant.cz/posts/iluze-technicke-analyzy-a-trzni-mikrostruktura/)
-* [Strukturální rozpad edge a nestacionarita – Proč nejlepší backtest zaručeně selže](https://cichra-quant.cz/posts/parameter-drift-a-strukturalni-rozpad-edge/)
-* [Proč si v backtestech záměrně zhoršuji podmínky a simuluji reálný order book](https://cichra-quant.cz/posts/realisticky-backtest-slippage-order-book/)
-* [Historická křivka může být zisková, ale strategie nemusí mít žádný statistický edge](https://cichra-quant.cz/posts/overfitting-a-iluze-backtestu/)
+- [Metodologie In-Sample a Out-of-Sample: Jak jediný únik dat znehodnotí výzkum](https://cichra-quant.cz/posts/in-sample-out-of-sample-metodologie-a-data-leakage/)
+- [Kvantitativní pohled na Price Action – Proč trh ignoruje geometrii](https://cichra-quant.cz/posts/iluze-technicke-analyzy-a-trzni-mikrostruktura/)
+- [Strukturální rozpad edge a nestacionarita – Proč nejlepší backtest zaručeně selže](https://cichra-quant.cz/posts/parameter-drift-a-strukturalni-rozpad-edge/)
+- [Proč si v backtestech záměrně zhoršuji podmínky a simuluji reálný order book](https://cichra-quant.cz/posts/realisticky-backtest-slippage-order-book/)
+- [Historická křivka může být zisková, ale strategie nemusí mít žádný statistický edge](https://cichra-quant.cz/posts/overfitting-a-iluze-backtestu/)
 
-[Zobrazit kompletní výzkum na cichra-quant.cz](https://cichra-quant.cz/posts/)
+<br>
+
+[**Zobrazit kompletní výzkum na cichra-quant.cz ➔**](https://cichra-quant.cz/posts/)
